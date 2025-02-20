@@ -1,0 +1,24 @@
+
+ p,h1,div{
+         background-color: honeydew;
+         margin: 0%;
+         padding: 20px;
+         text-align: center;
+         font-family: 'Times New Roman', Times, serif;
+button{
+  background-color: darksalmon;
+}
+input{
+  background-color: antiquewhite;
+}
+.image{
+  height:40em; 
+  background-size:cover; 
+  width: auto;
+  background-image:url('https://t3.ftcdn.net/jpg/01/00/65/64/360_F_100656447_xzaQm1D1p6oWUX4WCBX7LiDyD8Dw9sJw.jpg');
+  background: position 100px; 
+}       }
+.completed {
+    text-decoration: line-through;
+    text-decoration-color: rgb(228, 78, 58);
+  }

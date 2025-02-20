@@ -1,0 +1,14 @@
+
+
+p,h1,div,ol,ul{
+    background-color: lightblue;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+button{
+background-color: aquamarine;
+}
+input{
+background-color: antiquewhite;
+}
+}
